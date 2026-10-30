@@ -1,0 +1,14 @@
+nebius
+openai
+torch
+torchvision
+opencv-python
+pillow
+fastapi
+uvicorn
+gradio
+numpy
+pandas
+matplotlib
+python-dotenv
+requests

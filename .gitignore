@@ -1,0 +1,22 @@
+# Python
+.venv/
+.venv-linux/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
+.env
+
+# Data and models
+data/raw/
+models/
+*.mp4
+*.pt
+*.pth
+*.onnx
+
+# OS
+.DS_Store
+Thumbs.db
