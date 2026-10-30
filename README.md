@@ -129,7 +129,7 @@ text
 
 ### Prerequisites
 
-- Python 3.10+ (tested on 3.12)
+- Python 3.10+ 
 - `pip`
 - For generation: Nebius account with Token Factory and Object Storage access, Hugging Face token, AWS-compatible S3 keys
 
