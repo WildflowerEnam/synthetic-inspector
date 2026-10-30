@@ -51,7 +51,7 @@ flowchart LR
 
 ---
 
-## Current status 
+ 
 ## Project Status
 
 **Pipeline validation: complete.** All four stages of the pipeline — synthetic data generation, training with quantization, inference serving, and edge simulation — are implemented, executable, and verified end-to-end. The status table below reflects what was validated in the submitted build.
