@@ -1,5 +1,5 @@
 # Synthetic Inspector
-**Pysical AI defect detection for manufacturing quality control.**
+**Physical AI defect detection for manufacturing quality control.**
 
 Built for the [Nebius and NVIDIA Gloabal AI Hackathon] (https://nebius-nvidia.devpost.com) - **Physical AI track**.
 
